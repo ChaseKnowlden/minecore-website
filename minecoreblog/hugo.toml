@@ -1,4 +1,4 @@
 baseURL = 'https://chaseknowlden.github.io/'
 languageCode = 'en-us'
-title = "Minecore Blog"
+title = "Chase Knows Blog"
 theme = "contrast-hugo"
