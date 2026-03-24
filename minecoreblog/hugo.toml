@@ -2,3 +2,6 @@ baseURL = 'https://chaseknowlden.github.io/'
 languageCode = 'en-us'
 title = "Chase Knows Blog"
 theme = "contrast-hugo"
+
+[params]
+    description = "Practical tips and guides for Linux users, developers, and tinkerers."
