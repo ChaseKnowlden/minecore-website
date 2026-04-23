@@ -2,3 +2,6 @@
 	path = minecoreblog/public
 	url = git@github.com:ChaseKnowlden/chaseknowlden.github.io.git
 	branch = main
+[submodule "minecoreblog/themes/contrast-hugo"]
+	path = minecoreblog/themes/contrast-hugo
+	url = https://github.com/niklasbuschmann/contrast-hugo.git
